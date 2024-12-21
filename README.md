@@ -1,7 +1,7 @@
 # Network-Files-Shares-and-Permissions-Lab
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1> Network-Files-Shares-and-Permissions-Lab - Prerequisites and Installation</h1>
+This tutorial outlines the prerequisites and installation of Network-Files-Shares-and-Permissions-Lab.<br />
 
 <h2>Installation Steps</h2>
 

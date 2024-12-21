@@ -9,7 +9,7 @@ This tutorial outlines the prerequisites and installation of Network-Files-Share
 <img src="https://imgur.com/5B3iQlN.png" height="80%" width="80%" alt="Steps 1"/>
 </p>
 <p>
-Hello !, so today were going to work on sharing files over a network and setting permission for them. Okay so create 4 folders name "read-access,write-access,no access and accounting".
+Hello !, so today were going to work on sharing files over a network and setting permission for them. Okay so create 4 folders named "read-access,write-access,no access and accounting".
 </p>
 <br />
 
